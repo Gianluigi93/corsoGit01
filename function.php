@@ -1,4 +1,4 @@
-Versione per GitHub del file, modificata da Mario , e rivista da Gianluigi
+Versione per GitHub del file, modificata da Mario , e rivista da Gianluigi, riconfermata da Mario
 
 <? 
 
