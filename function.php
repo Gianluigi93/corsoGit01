@@ -1,3 +1,5 @@
+Versione per GitHub del file 
+
 <? 
 
 /* addizione */
